@@ -1,0 +1,7 @@
+{
+  "name": "certifyAI",
+  "description": "A production-grade, AI-powered certificate verification system featuring multi-level forgery detection, authenticity scoring, and explainable AI results for enterprise and government portals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
